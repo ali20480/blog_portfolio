@@ -5,11 +5,6 @@ title: Welcome to Ali Safa's Research Portfolio on Ethical AI
 description: Signal Processing and Embedded Machine Learning for Ultra Safe Robotics
 author: Ali Safa
 
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+header_pages:
+  - index.md
+  - about.md
