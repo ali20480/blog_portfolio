@@ -1,10 +1,7 @@
 github:
   is_project_page: false
   
-sublinks:
-  - title: Sub-item 1
-  - title: Sub-item 2
-  - title: Sub-item 3
+[alink](page.md)
     
 theme: jekyll-theme-cayman
 title: Welcome to Ali Safa's Research Portfolio on Ethical AI
