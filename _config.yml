@@ -1,15 +1,14 @@
 github:
   is_project_page: false
+  
+sublinks:
+  - title: Sub-item 1
+  - title: Sub-item 2
+  - title: Sub-item 3
+    
 theme: jekyll-theme-cayman
 title: Welcome to Ali Safa's Research Portfolio on Ethical AI
 description: Signal Processing and Embedded Machine Learning for Ultra Safe Robotics
 author: Ali Safa
 
-sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
 
